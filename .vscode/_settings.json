@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        ".*": true,
+        ".vscode": true,
+        "*.json": true,
+        "*.lock": true,
+        "app/www/main-es*": true,
+        "cert": true,
+        "node_modules": true
+    }
+} 
